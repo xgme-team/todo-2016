@@ -1,0 +1,13 @@
+collections:
+    topics:
+        output: true
+
+defaults:
+    -   scope:
+            path: ""
+            type: topics
+        values:
+            layout: topic
+            permalink: /topics/:path/
+
+repository: arbu/experimenting-with-jekyll
