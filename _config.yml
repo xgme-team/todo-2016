@@ -9,5 +9,3 @@ defaults:
         values:
             layout: topic
             permalink: /topics/:path/
-
-repository: arbu/experimenting-with-jekyll
